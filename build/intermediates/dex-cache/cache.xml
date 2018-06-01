@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_86501bdb3cda92a41a2a42a5b78049ceb00a1897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/fastjson/1.1.39-leancloud/94d4ebd4acdaf01d7445435382eea2d2d38e7534/fastjson-1.1.39-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.39-leancloud_4a27944351591f67aae03dcb547c873859634e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/okio/1.6.0-leancloud/7086c00a30a6de0ee3b963ec2c3702d37f1de11d/okio-1.6.0-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-leancloud_e558e911386e4d69e3bccd695e21175abad1d46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_83e25a662b7f374e056437b0aba937b71977e4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_e49a9f4e95b5703d30f90e062cff9c784f5795c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_d10c6c76145c681568be216e5838cfc7fef66f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-statistics/v3.16.4/63ab6c1582cc2c51a032f131c4a2b81c2286c3d/avoscloud-statistics-v3.16.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="063ab6c1582cc2c51a032f131c4a2b81c2286c3d">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/avoscloud-statistics-v3.16.4_743a023a1bdb11a044db672448fbf3e83a461da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.0_ebf884c52594d7f8ab92dd3d54c4261c35f9e9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_b8d9c69cec36ccd183eb3326f20d316b0c277271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_2ab1578f5e60421c92e2a038568e93de8fff5a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/v3.16.4/fb38431f760bee130fa4882ca7a93d7be2a817a5/avoscloud-sdk-v3.16.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb38431f760bee130fa4882ca7a93d7be2a817a5">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v3.16.4_31cd36bdf4536c2b55b2f9c97c6f2312ea1e043a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/okhttp/2.6.0-leancloud/7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930/okhttp-2.6.0-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/okhttp-2.6.0-leancloud_222fddb9ae0577c1cfa6b3082f3e6fb841e55e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/panxiaorui/Downloads/StorageStarted-master/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_9929877a03da88398aa30f42db2d8191a6328928.jar" />
+    </item>
+
+</items>
